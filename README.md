@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 - :briefcase: Currently working as a freelancer partially from :house:
-- :closed_book: Working on multiplayer :video_game: for my engineering thesis :pencil:
+- :mortar_board: Working on multiplayer :video_game: for my engineering thesis :closed_book:
 
 ## :books: Tech Stack
 |Category|Skills|
