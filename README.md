@@ -1,9 +1,11 @@
 # Hi there, I'm <a href="https://portfolio.prkul.com" target="_blank">Peter</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=flat-square&logo=Gmail&logoColor=white)](mailto:piotr.kuligowski98@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-338fc1?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/piotr-kuligowski)
-[![Website Badge](https://img.shields.io/badge/Portfolio-4d4a73?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.prkul.com)
-[![Website Badge](https://img.shields.io/badge/Blog-dd5f6f?style=flat-square&logo=google-chrome&logoColor=white)](https://blog.prkul.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-4d4a73?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.prkul.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-dd5f6f?style=flat-square&logo=google-chrome&logoColor=white)](https://blog.prkul.com)
 [![GitHub Gist Badge](https://img.shields.io/badge/-Gist-4f4f4f?style=flat-square&logo=GitHub&logoColor=white)](https://linkedin.com/in/piotr-kuligowski)
+
 
 **Talking about Personal Stuffs:**
 
