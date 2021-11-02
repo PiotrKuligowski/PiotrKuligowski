@@ -33,8 +33,10 @@
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python      3 hrs 32 mins   ████████████████████████░   95.80 % 
-Terraform   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Other       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python      8 hrs 31 mins   ███████████████████████░░   92.33 % 
+YAML        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Text        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Terraform   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
