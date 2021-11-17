@@ -40,3 +40,6 @@ Config                 10 mins         ▒░░░░░░░░░░░░�
 MsBuild targets file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
+
+:rocket: **I help scientists to do research in physics and astronomy by giving my unused compute power**
+<a href="https://universeathome.pl/universe/show_user.php?userid=229523"><img src="https://user-images.githubusercontent.com/56340810/142269237-3405c995-377d-4d2f-a54f-7c17f226ec5f.png" width="140"/></a>
