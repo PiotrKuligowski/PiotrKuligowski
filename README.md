@@ -33,11 +33,11 @@
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C#                     21 hrs 20 mins  ███████████████████████▓░   95.15 % 
-JSON                   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Csproj                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-MsBuild targets file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Config                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+C#                     22 hrs 3 mins   ███████████████████████▒░   93.63 % 
+Csproj                 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON                   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+MsBuild targets file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Config                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 
