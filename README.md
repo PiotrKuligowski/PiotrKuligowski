@@ -33,9 +33,9 @@
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C#               13 hrs 24 mins  ████████████████████████▓   99.26 % 
-Csproj           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+C#               18 hrs 17 mins  █████████████████████████   99.36 % 
+Csproj           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 
