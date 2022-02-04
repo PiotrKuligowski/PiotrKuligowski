@@ -33,9 +33,7 @@
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-YAML     16 mins         ████████████▒░░░░░░░░░░░░   48.69 % 
-INI      15 mins         ███████████░░░░░░░░░░░░░░   44.20 % 
-Python   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
