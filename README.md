@@ -33,8 +33,7 @@
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Text        9 mins          ██████████████▓░░░░░░░░░░   58.31 % 
-Terraform   6 mins          ██████████▒░░░░░░░░░░░░░░   41.69 % 
+
 ```
 <!--END_SECTION:waka-->
 
