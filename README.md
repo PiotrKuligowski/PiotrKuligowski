@@ -33,9 +33,9 @@
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Total: 29 mins
+Total: 53 mins
 
-C#   29 mins         █████████████████████████   100.00 % 
+C#   53 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
