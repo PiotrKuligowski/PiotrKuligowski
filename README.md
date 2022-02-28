@@ -32,9 +32,11 @@
 
 :clock1: **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 :rocket: **I help scientists to do research in physics and astronomy by giving my unused compute power**
