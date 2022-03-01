@@ -9,7 +9,7 @@
 
 **Talking about Personal Stuffs:**
 
-- :briefcase: Currently working as a freelancer partially from :house:
+- :briefcase: Currently working as a freelancer remotely :house:
 - :mortar_board: Working on multiplayer :video_game: for my engineering thesis :closed_book:
 
 ## :books: Tech Stack
