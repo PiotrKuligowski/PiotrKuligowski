@@ -34,9 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    2 hrs 16 mins   ██████████████████████▒░░   89.73 %
-Git Config   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Terraform   38 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
