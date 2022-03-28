@@ -34,7 +34,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Terraform    2 hrs 17 mins   ████████████████████████░   96.02 %
+Markdown     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
