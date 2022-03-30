@@ -34,10 +34,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    2 hrs 30 mins   ████████████████████████░   95.88 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Terraform    3 hrs 10 mins   ████████████████████████░   96.42 %
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
