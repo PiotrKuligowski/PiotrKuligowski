@@ -9,8 +9,8 @@
 
 **Talking about Personal Stuffs:**
 
-- :briefcase: Currently working as a freelancer remotely :house:
-- :mortar_board: Improving my AWS Skills :closed_book:
+- :briefcase: Currently working as a freelancer remotely
+- :mortar_board: Improving my AWS Skills
 
 ## :books: Tech Stack
 |Category|Skills|
