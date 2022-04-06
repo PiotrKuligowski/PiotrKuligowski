@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   39 mins         ████████████████████████▓   98.56 %
-Docker      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
