@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 # Hi there, I'm <a href="https://portfolio.prkul.com" target="_blank">Peter</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=flat-square&logo=Gmail&logoColor=white)](mailto:piotr.kuligowski98@gmail.com)
