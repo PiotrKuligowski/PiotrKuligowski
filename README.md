@@ -36,8 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    7 mins          ████████████████████░░░░░   80.35 %
-Git Config   1 min           █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Terraform      30 mins         ██████████████▓░░░░░░░░░░   58.14 %
+Bash           15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+Shell Script   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
 ```
 
 <!--END_SECTION:waka-->
