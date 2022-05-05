@@ -36,10 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform      2 hrs 56 mins   ███████████████████████▓░   94.21 %
-Shell Script   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Terraform      1 hr 47 mins    ████████████████████████▒   96.96 %
+Shell Script   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
