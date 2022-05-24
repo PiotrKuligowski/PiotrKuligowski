@@ -36,7 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Terraform    1 min           ███████████████▒░░░░░░░░░   60.93 %
+Python       0 secs          ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
