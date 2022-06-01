@@ -36,10 +36,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform        4 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   45.38 %
-Shell Script     2 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   28.41 %
-Bash             2 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Terraform        4 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
+Shell Script     2 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+Bash             2 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
