@@ -36,9 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Shell Script   27 mins         ██████████████░░░░░░░░░░░   56.37 %
-Terraform      21 mins         ██████████▓░░░░░░░░░░░░░░   43.10 %
-HCL            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Shell Script   22 mins         █████████████████████▒░░░   85.34 %
+Terraform      2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+HCL            1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
