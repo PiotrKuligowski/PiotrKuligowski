@@ -36,10 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-MsBuild targets file   18 mins         ███████████████████▓░░░░░   78.13 %
-C#                     4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-GitIgnore file         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Config                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
